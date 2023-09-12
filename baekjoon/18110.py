@@ -2,7 +2,7 @@ import sys
 input=sys.stdin.readline
 
 def newRound(num):
-    return int(num)+ 1 if num-int(num)>=0.5 else 0
+    return int(num)+ (1 if num-int(num)>=0.5 else 0)
 
 n=int(input())
 num=newRound(n*0.15)
