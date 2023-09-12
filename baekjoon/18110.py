@@ -1,13 +1,23 @@
-from sys import stdin
-input = stdin.readline
+import sys
+input=sys.stdin.readline
 
-def round45(num) :
-    return int(num) + [0, 1][num - int(num) >= 0.5]
+def newRound(num):
+    return int(num)+ 1 if num-int(num)>=0.5 else 0
 
-n = int(input())
-if n == 0 : print(0)
-else :
-    nums = sorted([int(input()) for _ in range(n)])
-    temp = round45(n * 0.15)
-    if temp > 0 : nums = nums[temp : -temp]
-    print(round45( sum(nums) / (n - temp*2) ))
+n=int(input())
+num=newRound(n*0.15)
+
+if n==0:
+    print(0)
+else:
+    score=[]
+    for i in range(n):
+        score.append(int(input()))
+    score.sort()
+
+    sum=0
+    for i in range(num,n-num):
+        sum+=score[i]
+    sum=sum/(n-2*num)
+
+    print(newRound(sum))
