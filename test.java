@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 import static java.lang.Integer.*;
 
 public class test {
