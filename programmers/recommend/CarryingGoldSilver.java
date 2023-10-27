@@ -28,7 +28,8 @@ public class CarryingGoldSilver {
                 long nowT=t[i];
 
                 long moveCnt=mid/(nowT*2);
-                if (mid%(nowT*2)>=t[i]){
+                long num=mid%(nowT*2);
+                if (num>=t[i]){
                         moveCnt++;
                 }
                 gold+=Math.min(nowG,moveCnt*nowW);
@@ -46,3 +47,10 @@ public class CarryingGoldSilver {
 
     }
 }
+
+/*int[] g={70,70,0};
+        int[] s={0,0,500};
+        int[] w={100,100,2};
+        int[] t={4,8,1};
+        CarryingGoldSilver carryingGoldSilver=new CarryingGoldSilver();
+        carryingGoldSilver.solution(90,500,g,s,w,t);*/
