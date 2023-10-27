@@ -1,4 +1,4 @@
-package programmers;
+package programmers.basic;
 
 public class HowMany7 {
     public int solution(int[] array) {

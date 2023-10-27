@@ -1,4 +1,4 @@
-package programmers;
+package programmers.basic;
 
 public class CuttingArray {
     public String[] solution(String my_str, int n) {

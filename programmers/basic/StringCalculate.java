@@ -1,4 +1,4 @@
-package programmers;
+package programmers.basic;
 
 public class StringCalculate {
     public int solution(String my_string) {

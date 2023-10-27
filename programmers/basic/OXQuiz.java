@@ -1,4 +1,4 @@
-package programmers;
+package programmers.basic;
 
 public class OXQuiz {
     public String[] solution(String[] quiz) {

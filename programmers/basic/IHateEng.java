@@ -1,4 +1,4 @@
-package programmers;
+package programmers.basic;
 
 public class IHateEng {
     public long solution(String numbers) {

@@ -1,4 +1,4 @@
-package programmers;
+package programmers.basic;
 
 import java.util.ArrayList;
 import java.util.List;

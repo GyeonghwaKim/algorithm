@@ -1,4 +1,4 @@
-package programmers;
+package programmers.basic;
 
 public class CtrlZ {
     public int solution(String s) {

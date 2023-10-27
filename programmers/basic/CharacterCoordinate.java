@@ -1,4 +1,4 @@
-package programmers;
+package programmers.basic;
 
 public class CharacterCoordinate {
     public int[] solution(String[] keyinput, int[] board) {
