@@ -1,4 +1,4 @@
-package swea.d2;
+package swea.d3;
 
 
 import java.io.*;
@@ -15,7 +15,6 @@ class Q1206
 
 		for(int i=0;i<T;i++){
 			int result=0;
-
 		//건물의 개수
 		int n= Integer.parseInt(br.readLine());
 		ArrayList<Integer> arrayList=new ArrayList<>();

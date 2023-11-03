@@ -15,9 +15,8 @@ public class P1244 {
         int Tc=sc.nextInt();
 
         for(int i=1;i<=Tc;i++){
-            //123
+
             arr=sc.next().split("");
-            //1
             changeCnt= sc.nextInt();
             max=0;
 
@@ -31,23 +30,34 @@ public class P1244 {
         }
 
         static void dfs(int start,int cnt){
+        //0==1 false
             if(cnt==changeCnt){
                 String result="";
                 for(String s:arr){
+
                     result+=s;
                 }
+
                 max=Math.max(max,Integer.parseInt(result));
                 return;}
+
             for(int i=start;i<arr.length;i++){
+
                 for(int j=i+1;j<arr.length;j++){
                     //swap
+
                     String temp=arr[i];
+
                     arr[i]=arr[j];
+
                     arr[j]=temp;
 
                     dfs(i,cnt+1);
+
                     temp=arr[i];
+
                     arr[i]=arr[j];
+
                     arr[j]=temp;
                 }
             }
