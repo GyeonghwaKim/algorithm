@@ -11,7 +11,7 @@ public class P24313 {
         int c = sc.nextInt();
         int n0 = sc.nextInt();
 
-        System.out.println((((a1 * n0 + a0) <= c * n0) & c <= a1) ? 1 : 0);
+        System.out.println((((a1 * n0 + a0) <= c * n0) & c >= a1) ? 1 : 0);
 
     }
 }
