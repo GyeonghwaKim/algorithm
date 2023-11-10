@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class P1934
 {//유클리드 호제법 A*B/최대공약수 =최소 공배수
+    //숫자가 3개 일때는 ,,?
     public static int getGCD(int num1,int num2){
         if(num1%num2==0){
             return num2;
