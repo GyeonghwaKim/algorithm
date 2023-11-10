@@ -32,6 +32,8 @@ public class P1764
         for(var arr:arrayList) System.out.println(arr);
 
 
+
+
     }
 
 }
