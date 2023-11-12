@@ -1,4 +1,4 @@
-package baekjoon;
+package 해결못한문제;
 
 import java.io.BufferedReader;
 import java.io.IOException;
