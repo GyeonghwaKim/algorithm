@@ -7,7 +7,6 @@ import java.util.StringTokenizer;
 
 public class P24060 {
 
-
     static int[] tmp;
     static int K;
     static int result=-1;
