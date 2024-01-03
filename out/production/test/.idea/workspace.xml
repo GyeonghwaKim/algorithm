@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d14d35cd-4b9b-444a-9ae1-53601f5a35e9" name="Changes" comment="-" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2WuyuE2Ao0gftcostnFU9RRe4h2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "1",
+    "last_opened_file_path": "C:/Study/algorithm",
+    "settings.editor.selected.configurable": "configurable.group.tools"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Study\algorithm\programmers\basic" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d14d35cd-4b9b-444a-9ae1-53601f5a35e9" name="Changes" comment="" />
+      <created>1697596979966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697596979966</updated>
+    </task>
+    <task id="LOCAL-00040" summary="StringBuilder, HashMap">
+      <option name="closed" value="true" />
+      <created>1699412588266</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1699412588266</updated>
+    </task>
+    <task id="LOCAL-00041" summary=".contains">
+      <option name="closed" value="true" />
+      <created>1699414754402</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1699414754402</updated>
+    </task>
+    <task id="LOCAL-00042" summary="hashmap.get(key), Collections.sort, reverseOrder()">
+      <option name="closed" value="true" />
+      <created>1699416114979</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1699416114979</updated>
+    </task>
+    <task id="LOCAL-00043" summary="BufferedReader, InputStreamReader&#10;StringTokenizer,&#10;map.getOrDefault">
+      <option name="closed" value="true" />
+      <created>1699429034719</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1699429034719</updated>
+    </task>
+    <task id="LOCAL-00044" summary="BufferedReader, InputStreamReader&#10;StringTokenizer,&#10;map.getOrDefault">
+      <option name="closed" value="true" />
+      <created>1699584022342</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1699584022342</updated>
+    </task>
+    <task id="LOCAL-00045" summary="유클리드 호제법">
+      <option name="closed" value="true" />
+      <created>1699589365607</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1699589365607</updated>
+    </task>
+    <task id="LOCAL-00046" summary="유클리드 호제법&#10;A*B/최대공약수 = 최소공배수">
+      <option name="closed" value="true" />
+      <created>1699589689900</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1699589689900</updated>
+    </task>
+    <task id="LOCAL-00047" summary="substring">
+      <option name="closed" value="true" />
+      <created>1699589720449</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1699589720449</updated>
+    </task>
+    <task id="LOCAL-00048" summary="규칙 찾기가 참 어렵">
+      <option name="closed" value="true" />
+      <created>1699593643258</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1699593643258</updated>
+    </task>
+    <task id="LOCAL-00049" summary="나무의 개수는 간격[-1]-간격[0]+1">
+      <option name="closed" value="true" />
+      <created>1699665089939</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1699665089939</updated>
+    </task>
+    <task id="LOCAL-00050" summary="primeNum">
+      <option name="closed" value="true" />
+      <created>1699673861851</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1699673861857</updated>
+    </task>
+    <task id="LOCAL-00051" summary="gcd 구현법은 외우기">
+      <option name="closed" value="true" />
+      <created>1699675173622</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1699675173622</updated>
+    </task>
+    <task id="LOCAL-00052" summary="primeNum">
+      <option name="closed" value="true" />
+      <created>1699679472843</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1699679472844</updated>
+    </task>
+    <task id="LOCAL-00053" summary="시간초과">
+      <option name="closed" value="true" />
+      <created>1699760945740</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1699760945740</updated>
+    </task>
+    <task id="LOCAL-00054" summary="시간초과">
+      <option name="closed" value="true" />
+      <created>1699804760406</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1699804760407</updated>
+    </task>
+    <task id="LOCAL-00055" summary="-">
+      <option name="closed" value="true" />
+      <created>1699846594195</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1699846594195</updated>
+    </task>
+    <task id="LOCAL-00056" summary="switch">
+      <option name="closed" value="true" />
+      <created>1699846623719</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1699846623719</updated>
+    </task>
+    <task id="LOCAL-00057" summary="push(스택생각)랑 add">
+      <option name="closed" value="true" />
+      <created>1699856866263</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1699856866263</updated>
+    </task>
+    <task id="LOCAL-00058" summary="deque">
+      <option name="closed" value="true" />
+      <created>1699860148034</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1699860148037</updated>
+    </task>
+    <task id="LOCAL-00059" summary="deque">
+      <option name="closed" value="true" />
+      <created>1700010548725</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1700010548726</updated>
+    </task>
+    <task id="LOCAL-00060" summary="deque">
+      <option name="closed" value="true" />
+      <created>1700019803013</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1700019803013</updated>
+    </task>
+    <task id="LOCAL-00061" summary="초기화잘하자,,">
+      <option name="closed" value="true" />
+      <created>1700047009227</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1700047009228</updated>
+    </task>
+    <task id="LOCAL-00062" summary="isEmpty() 말고 .length()">
+      <option name="closed" value="true" />
+      <created>1700058493091</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1700058493092</updated>
+    </task>
+    <task id="LOCAL-00063" summary="swea">
+      <option name="closed" value="true" />
+      <created>1700101318493</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1700101318495</updated>
+    </task>
+    <task id="LOCAL-00064" summary="swea">
+      <option name="closed" value="true" />
+      <created>1700107452581</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1700107452581</updated>
+    </task>
+    <task id="LOCAL-00065" summary="swea &#10;float, int 항상 생각하자!">
+      <option name="closed" value="true" />
+      <created>1700109344904</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1700109344904</updated>
+    </task>
+    <task id="LOCAL-00066" summary="swea">
+      <option name="closed" value="true" />
+      <created>1700121165334</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1700121165335</updated>
+    </task>
+    <task id="LOCAL-00067" summary="swea&#10;for (String s:str.split(&quot;&quot;))">
+      <option name="closed" value="true" />
+      <created>1700132536941</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1700132536942</updated>
+    </task>
+    <task id="LOCAL-00068" summary="swea&#10;for (String s:str.split(&quot;&quot;))">
+      <option name="closed" value="true" />
+      <created>1700150592779</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1700150592779</updated>
+    </task>
+    <task id="LOCAL-00069" summary="백준">
+      <option name="closed" value="true" />
+      <created>1700151110095</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1700151110095</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Swea">
+      <option name="closed" value="true" />
+      <created>1700151153768</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1700151153768</updated>
+    </task>
+    <task id="LOCAL-00071" summary="백준">
+      <option name="closed" value="true" />
+      <created>1700197885334</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1700197885334</updated>
+    </task>
+    <task id="LOCAL-00072" summary="백준">
+      <option name="closed" value="true" />
+      <created>1700534186135</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1700534186135</updated>
+    </task>
+    <task id="LOCAL-00073" summary="백준">
+      <option name="closed" value="true" />
+      <created>1700537895769</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1700537895770</updated>
+    </task>
+    <task id="LOCAL-00074" summary="백준">
+      <option name="closed" value="true" />
+      <created>1700540631031</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1700540631031</updated>
+    </task>
+    <task id="LOCAL-00075" summary="백준 팩토리얼문제">
+      <option name="closed" value="true" />
+      <created>1700616166934</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1700616166935</updated>
+    </task>
+    <task id="LOCAL-00076" summary="백준 팰린드롬">
+      <option name="closed" value="true" />
+      <created>1700621419760</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1700621419760</updated>
+    </task>
+    <task id="LOCAL-00077" summary="백준 병합정렬">
+      <option name="closed" value="true" />
+      <created>1700656463820</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1700656463822</updated>
+    </task>
+    <task id="LOCAL-00078" summary="백준 병합정렬">
+      <option name="closed" value="true" />
+      <created>1700656508993</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1700656508993</updated>
+    </task>
+    <task id="LOCAL-00079" summary="백준 칸투어">
+      <option name="closed" value="true" />
+      <created>1700704396866</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1700704396867</updated>
+    </task>
+    <task id="LOCAL-00080" summary="백준 백트래킹 중 dfs">
+      <option name="closed" value="true" />
+      <created>1700792163530</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1700792163530</updated>
+    </task>
+    <task id="LOCAL-00081" summary="백준 백트래킹 중 dfs">
+      <option name="closed" value="true" />
+      <created>1700794681920</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1700794681920</updated>
+    </task>
+    <task id="LOCAL-00082" summary="백준 백트래킹 중 dfs">
+      <option name="closed" value="true" />
+      <created>1700797127328</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1700797127328</updated>
+    </task>
+    <task id="LOCAL-00083" summary="백준 백트래킹 중 dfs">
+      <option name="closed" value="true" />
+      <created>1700803724903</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1700803724903</updated>
+    </task>
+    <task id="LOCAL-00084" summary="hashmap">
+      <option name="closed" value="true" />
+      <created>1700886646841</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1700886646841</updated>
+    </task>
+    <task id="LOCAL-00085" summary="백준">
+      <option name="closed" value="true" />
+      <created>1701054359171</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1701054359172</updated>
+    </task>
+    <task id="LOCAL-00086" summary="백준">
+      <option name="closed" value="true" />
+      <created>1704112376882</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1704112376883</updated>
+    </task>
+    <task id="LOCAL-00087" summary="백준">
+      <option name="closed" value="true" />
+      <created>1704116869940</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1704116869940</updated>
+    </task>
+    <task id="LOCAL-00088" summary="-">
+      <option name="closed" value="true" />
+      <created>1704116902933</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1704116902933</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="유클리드 호제법" />
+    <MESSAGE value="유클리드 호제법&#10;A*B/최대공약수 = 최소공배수" />
+    <MESSAGE value="substring" />
+    <MESSAGE value="규칙 찾기가 참 어렵" />
+    <MESSAGE value="나무의 개수는 간격[-1]-간격[0]+1" />
+    <MESSAGE value="gcd 구현법은 외우기" />
+    <MESSAGE value="primeNum" />
+    <MESSAGE value="시간초과" />
+    <MESSAGE value="switch" />
+    <MESSAGE value="push(스택생각)랑 add" />
+    <MESSAGE value="deque" />
+    <MESSAGE value="초기화잘하자,," />
+    <MESSAGE value="isEmpty() 말고 .length()" />
+    <MESSAGE value="swea &#10;float, int 항상 생각하자!" />
+    <MESSAGE value="swea" />
+    <MESSAGE value="swea&#10;for (String s:str.split(&quot;&quot;))" />
+    <MESSAGE value="Swea" />
+    <MESSAGE value="백준 팩토리얼문제" />
+    <MESSAGE value="백준 팰린드롬" />
+    <MESSAGE value="백준 병합정렬" />
+    <MESSAGE value="백준 칸투어" />
+    <MESSAGE value="백준 백트래킹 중 dfs" />
+    <MESSAGE value="hashmap" />
+    <MESSAGE value="백준" />
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swea/d3/P1244.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swea/d3/P1244.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P9506.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P9506.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P3009.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P3009.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P1269.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P13909.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P2485.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P2485.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P4134.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P4134.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P28278.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P28278.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P18258.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P18258.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P2346.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P25411.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swea/d2/P1204.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swea/d2/P1204.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swea/d2/P1989.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swea/d2/P1984.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swea/d2/P1288.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/swea/d2/P1288.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/해결못한문제/P20920.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/해결못한문제/P20920.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P24060.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P4779.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P15649.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P15650.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P15651.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P15652.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((HashMap)map).entrySet().toArray()[0]" custom="java.util.HashMap" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
