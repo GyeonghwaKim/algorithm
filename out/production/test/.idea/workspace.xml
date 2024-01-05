@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d14d35cd-4b9b-444a-9ae1-53601f5a35e9" name="Changes" comment="-" />
+    <list default="true" id="d14d35cd-4b9b-444a-9ae1-53601f5a35e9" name="Changes" comment="-">
+      <change afterPath="$PROJECT_DIR$/baekjoon/P14889.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/해결못한문제/P20920.java" beforeDir="false" afterPath="$PROJECT_DIR$/해결못한문제/P20920.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,14 +29,14 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "1",
-    "last_opened_file_path": "C:/Study/algorithm",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Study/algorithm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Study\algorithm\programmers\basic" />
@@ -60,14 +64,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697596979966</updated>
-    </task>
-    <task id="LOCAL-00040" summary="StringBuilder, HashMap">
-      <option name="closed" value="true" />
-      <created>1699412588266</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1699412588266</updated>
     </task>
     <task id="LOCAL-00041" summary=".contains">
       <option name="closed" value="true" />
@@ -453,7 +449,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704116902933</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="-">
+      <option name="closed" value="true" />
+      <created>1704276733025</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1704276733026</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -620,12 +624,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/해결못한문제/P20920.java</url>
-          <line>26</line>
+          <line>25</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/해결못한문제/P20920.java</url>
-          <line>45</line>
+          <line>44</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -657,6 +661,16 @@
           <url>file://$PROJECT_DIR$/baekjoon/P15652.java</url>
           <line>27</line>
           <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P14888.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P14889.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
