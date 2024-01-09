@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d14d35cd-4b9b-444a-9ae1-53601f5a35e9" name="Changes" comment="-">
-      <change afterPath="$PROJECT_DIR$/baekjoon/P14889.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/해결못한문제/P20920.java" beforeDir="false" afterPath="$PROJECT_DIR$/해결못한문제/P20920.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Softeer/WorkingHours.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,30 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697596979966</updated>
-    </task>
-    <task id="LOCAL-00041" summary=".contains">
-      <option name="closed" value="true" />
-      <created>1699414754402</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1699414754402</updated>
-    </task>
-    <task id="LOCAL-00042" summary="hashmap.get(key), Collections.sort, reverseOrder()">
-      <option name="closed" value="true" />
-      <created>1699416114979</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1699416114979</updated>
-    </task>
-    <task id="LOCAL-00043" summary="BufferedReader, InputStreamReader&#10;StringTokenizer,&#10;map.getOrDefault">
-      <option name="closed" value="true" />
-      <created>1699429034719</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1699429034719</updated>
     </task>
     <task id="LOCAL-00044" summary="BufferedReader, InputStreamReader&#10;StringTokenizer,&#10;map.getOrDefault">
       <option name="closed" value="true" />
@@ -457,7 +431,31 @@
       <option name="project" value="LOCAL" />
       <updated>1704276733026</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="compare">
+      <option name="closed" value="true" />
+      <created>1704437376452</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1704437376452</updated>
+    </task>
+    <task id="LOCAL-00091" summary="dfs">
+      <option name="closed" value="true" />
+      <created>1704437387569</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1704437387569</updated>
+    </task>
+    <task id="LOCAL-00092" summary="-">
+      <option name="closed" value="true" />
+      <created>1704437397442</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1704437397442</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,8 +470,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="유클리드 호제법" />
-    <MESSAGE value="유클리드 호제법&#10;A*B/최대공약수 = 최소공배수" />
     <MESSAGE value="substring" />
     <MESSAGE value="규칙 찾기가 참 어렵" />
     <MESSAGE value="나무의 개수는 간격[-1]-간격[0]+1" />
@@ -496,6 +492,8 @@
     <MESSAGE value="백준 백트래킹 중 dfs" />
     <MESSAGE value="hashmap" />
     <MESSAGE value="백준" />
+    <MESSAGE value="compare" />
+    <MESSAGE value="dfs" />
     <MESSAGE value="-" />
     <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
@@ -623,13 +621,8 @@
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/해결못한문제/P20920.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/해결못한문제/P20920.java</url>
-          <line>44</line>
+          <url>file://$PROJECT_DIR$/baekjoon/P20920.java</url>
+          <line>64</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -671,6 +664,11 @@
           <url>file://$PROJECT_DIR$/baekjoon/P14889.java</url>
           <line>30</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/baekjoon/P20920.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
